@@ -40,3 +40,6 @@ Está construida con **HTML**, **CSS** y **JavaScript**, y funciona completament
 
 ## 📂 Estructura del proyecto
 
+
+
+![ff043987-239b-4661-bdb1-7f4ca6092c48](https://github.com/user-attachments/assets/157f7220-13f5-4540-b86a-cf73fc2b30f3)
